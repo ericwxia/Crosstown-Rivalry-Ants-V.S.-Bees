@@ -6,7 +6,7 @@ A tower defense game inspired by Plants V.S. Zombies
 ##Usage: 
 
 ```
-ants_gui.py [-h] [-f] [-w] [-i] [--food FOOD]
+python3 ants_gui.py [-h] [-f] [-w] [-i] [--food FOOD]
 
 optional arguments:
   -h, --help    show this help message and exit
