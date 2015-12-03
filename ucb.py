@@ -1,4 +1,4 @@
-"""The UC Berkeley module."""
+"""The UC Berkeley module functions."""
 
 import code
 import functools
