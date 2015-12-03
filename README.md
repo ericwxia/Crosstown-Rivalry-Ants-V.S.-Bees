@@ -17,5 +17,5 @@ optional arguments:
 ```
 
 ## Features
-* 11 types of ants: HarvesterAnt, FireAnt, ShortThrower, LongThrower, ScubaThrower, HungryAnt, WallAnt, NinjaAnt, SlowThrower, StunThrower and Queen
+* 10 types of ants: HarvesterAnt, FireAnt, ShortThrower, LongThrower, ThrowerAnt, ScubaThrower, HungryAnt, WallAnt, NinjaAnt, and Queen
 * 3 types of places: Land, Water, and BushAnt
