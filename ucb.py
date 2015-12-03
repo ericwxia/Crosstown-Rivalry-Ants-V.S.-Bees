@@ -1,4 +1,4 @@
-"""The UCB module contains functions specific to 61A projects at UC Berkeley."""
+"""The UC Berkeley module."""
 
 import code
 import functools
